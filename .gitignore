@@ -5,3 +5,7 @@
 /.vs
 /TestTaskPlumsail/.vs/TestTaskPlumsail
 /TestTaskPlumsail/obj
+/TestTaskPlumsail/.vs/ProjectEvaluation
+/TestTaskPlumsail/bin/Debug/net6.0
+/TestTaskPlumsail.Test/bin/Debug/net6.0
+/TestTaskPlumsail.Test/obj
